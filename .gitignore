@@ -1,0 +1,22 @@
+# Data files (ignored to prevent large file errors on GitHub)
+data/raw/
+data/processed/
+
+# Outputs
+outputs/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+venv/
+ENV/
+env/
+.idea/
+.vscode/
+
+# Ignore SQLite DB
+*.sqlite
+*.db
